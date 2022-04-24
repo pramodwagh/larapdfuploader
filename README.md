@@ -12,13 +12,17 @@
 
 ## Run the following coommands to Setup project
 
--'composer install --ignore-platform-reqs'
--'npm install'
-- Create .env file, add database credentials and run 'php artisan migrate'.
--'php artisan migrate'
--'php artisan storage:link'
--'php aritsan serve'
-- Run on another cmd tab 'npm run dev'
+`composer install --ignore-platform-reqs`
+
+`npm install`
+
+-Create .env file, add database credentials and run 'php artisan migrate'.
+
+`php artisan migrate`
+
+`php artisan storage:link`
+`php aritsan serve`
+- Run on another cmd tab `npm run dev`
 
 ## Screenshot
 
