@@ -8,16 +8,16 @@
 
 ## Installation
 
-`git clone `
+`git clone https://github.com/pramodwagh/larapdfuploader.git `
 
 ## Run the following coommands to Setup project
 
-'composer install --ignore-platform-reqs'
-'npm install'
+-'composer install --ignore-platform-reqs'
+-'npm install'
 - Create .env file, add database credentials and run 'php artisan migrate'.
-'php artisan migrate'
-'php artisan storage:link'
-'php aritsan serve'
+-'php artisan migrate'
+-'php artisan storage:link'
+-'php aritsan serve'
 - Run on another cmd tab 'npm run dev'
 
 ## Screenshot
